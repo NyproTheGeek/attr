@@ -1,2 +1,1 @@
-*.astro 
-linguist-language=Kotlin
+*.astro linguist-language=Kotlin
